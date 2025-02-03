@@ -1,8 +1,8 @@
-/* From Uiverse.io by gharsh11032000 */ 
 body {
     background-color: #333;
     display: flex;
     justify-content: center;
+    
 }
 
 .card {
